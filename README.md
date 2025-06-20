@@ -1,11 +1,4 @@
 <!-- PROJECT LOGO -->
-
-<br />
-<p align="center">
-  <a href="https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease">
-    <img src="readme_images/logo.png" alt="Logo" width="160" height="160">
-  </a>
-
   <h3 align="center">Multimodal-Prediction-of-Cardiovascular-Disease</h3>
 
   <p align="center">
@@ -123,14 +116,8 @@ Feel free to clone and modify according to your needs. But please give desirable
 <!-- CONTACT -->
 ## Contact
 
-Email ID - vedant20261@iiitd.ac.in
+Email ID - iamjayant246@gmail.com
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* Aditya Ahuja - aditya20275@iiitd.ac.in
-* Jaskaran Singh - jaskaran20306@iiitd.ac.in
-* Pratyush Kumar - pratyush20454@iiitd.ac.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: https://github.com/oo7vedant-IIITD/Multimodal-Prediction-of-Cardiovascular-Disease/blob/main/readme_images/Heat_map.png
